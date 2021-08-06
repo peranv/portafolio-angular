@@ -1,5 +1,5 @@
 # Portafolio
 
-Created in Angular, firebase
+Created in Angular, TypeScript and firebase
 
 https://peranv.github.io/portafolio-angular/
